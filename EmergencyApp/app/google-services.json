@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415575008091",
+    "project_id": "emergencyapp-44f1f",
+    "storage_bucket": "emergencyapp-44f1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415575008091:android:ac41a8c22430e89d93307e",
+        "android_client_info": {
+          "package_name": "com.example.emergencyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-X8lyVI-Yni3yZ8sRw_rs7E5E-CEknM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
